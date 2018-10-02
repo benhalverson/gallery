@@ -1,0 +1,19 @@
+.investorImages {
+  width: 100px;
+  height: 100px;
+  /* position: relative;
+  left: 79%; */
+  border: 1px solid red;
+}
+img.rightArrow:hover{
+  display: block;
+}
+img.rightArrow {
+  display: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: row-reverse;
+  height: 100%;
+}
